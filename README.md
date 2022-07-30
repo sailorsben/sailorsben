@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ben Sailors
-- 👀 I’m interested in AI, Machine Learning, and Web3.
-- 🌱 I’m currently learning C#, C++, and Python.
+- 👀 I’m interested in AI, Machine Learning, and open source.
+- 🌱 I’m currently improving my JavaScript skills.
 - 📫 You can reach me on Twitter @sailorsben
 
 <!---
